@@ -1,5 +1,4 @@
 import copy
-
 name = [34, 6, 8, 'ram', ['sam', 'hk', [0, 8], 7]]
 #ram = copy.copy(name)
 ram = copy.deepcopy(name) 
